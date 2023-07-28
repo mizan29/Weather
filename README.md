@@ -1,6 +1,6 @@
 # Weather
 
-<img width="414" alt="weather_app" src="https://github.com/mizan29/Weather/assets/9810688/d623d313-16d0-4682-a2d5-64451dd5208b">
+<img width="419" alt="weather_app" src="https://github.com/mizan29/Weather/assets/9810688/74841985-fac5-4db6-b74d-2762c27312fc">
 
 
 ## Getting started
