@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding.default.10">10dp</dimen>
+    <dimen name="margin.default.20">20dp</dimen>
+    <dimen name="image_width">55dp</dimen>
+</resources>

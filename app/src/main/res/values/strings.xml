@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="weather_image">Weather Image</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="senset">Sunset:</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="clouds">Clouds</string>
+    <string name="winds">Winds</string>
+    <string name="unit_c">℃</string>
+    <string name="unit_f">℉</string>
+    <string name="degree">Degree</string>
+</resources>
