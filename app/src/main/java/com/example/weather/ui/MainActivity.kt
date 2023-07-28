@@ -122,7 +122,6 @@ class MainActivity : AppCompatActivity() {
                             Constants.WEATHER_IMAGE_BASE_URL + weatherIcon + ".png"
                         Picasso.get()
                             .load(iconUrl)
-                            .networkPolicy(NetworkPolicy.OFFLINE)
                             .into(binding.weatherImage)
 
                         val temperature = data.main?.temperature
